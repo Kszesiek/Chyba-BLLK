@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.idea/
+# CodeStream ignored files
+/../../chyba-BLLK\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../../:\# Studia\Semestr 4\Projekty\React Native\chyba-BLLK\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
